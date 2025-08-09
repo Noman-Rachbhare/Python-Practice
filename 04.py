@@ -1,14 +1,14 @@
 
 # variables
+# Data types
+a=1;         #Integer
+b=2.2;        #float
+c="Noman"       #String
+d=True;        #boolean
+e=3.3;          #float
+f=None;        #None
 
-a=1;
-b=2;
-c="Noman"
-d=True;
-e=3.3;
-f=None;
-
-_z="sameer";
+_z="sameer";    #String
 print(_z)
 print(a);
 print(b);
